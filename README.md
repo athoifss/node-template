@@ -9,10 +9,10 @@ A CLI tool for quickly generating nodejs boilerplate code
 
 ## Installation
 
-To install `@athoifss/new-component`, use npm:
+To install `@athoifss/node-template`, use npm:
 
 ```bash
-   npm install -g @athoifss/new-component
+   npm install -g @athoifss/node-template
 ```
 
 ## Usage
