@@ -1,0 +1,47 @@
+# Node modules directory
+node_modules
+
+# Logs
+*.log
+npm-debug.log*
+
+# Directory for test files
+test/
+__tests__/
+
+# Temporary files and directories
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Build output
+dist/
+build/
+
+# Configuration files for various tools
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific and IDE-specific files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Git-related files
+.git/
+.gitignore
+.gitattributes
+
+# Continuous integration
+.travis.yml
+.circleci/
+
+# Documentation files
+docs/
+
+# Other
+coverage/
+.env

@@ -1,0 +1,13 @@
+{
+  "name": "@athoifss/node-template",
+  "version": "0.0.1",
+  "description": "A CLI to quickly generate boilerplate for a node app",
+  "main": "index.js",
+  "bin": {
+    "node-template": "bin/index.js"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
